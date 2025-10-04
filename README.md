@@ -2,6 +2,15 @@
 
 An autonomous coding agent that generates custom parsers for bank statement PDFs using LLM-powered self-debugging loops.
 
+## Author
+
+**Rohit Mudili**
+- GitHub: [@RohitMudili](https://github.com/RohitMudili)
+- Email: [rohitmudili5@gmail.com]
+- LinkedIn: [www.linkedin.com/in/rohit-mudili]
+
+---
+
 ## Architecture Diagram
 
 ```mermaid
@@ -249,10 +258,6 @@ The agent automatically:
 - `pytest>=8.0.0` - Testing framework
 - `python-dotenv>=1.0.0` - Environment variables
 
-## License
-
-MIT License - See repository for details
-
-## Author
+---
 
 Built for the "Agent-as-Coder" Challenge by Korefi
